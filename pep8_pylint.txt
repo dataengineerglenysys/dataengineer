@@ -1,0 +1,15 @@
+open anaconda prompt and run below cmds
+
+pip install pep8
+
+pip install pylint
+
+pep8 pytest_example.py
+
+pylint pytest_example.py
+
+
+pycharm --> file --> settings --> external tools --> click + --> name = pylint,
+program = "where pylint" 
+arguments = $FilePath$
+working direcry = $ProjectFileDir$ 
