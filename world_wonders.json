@@ -1,0 +1,34 @@
+[
+	{	"Wonder" : 'Great Pyramid of Giza',
+		"Location":'Egypt',
+		"Year":'2560 BC'
+	},
+	{	"Wonder" : 'Great Wall of China',
+		"Location":'China',
+		"Year":'700 BC'
+	},
+	{	"Wonder" : 'Petra',
+		"Location":'Jordan',
+		"Year":'312 BC'
+	},
+	{	"Wonder" : 'Colosseum',
+		"Location":'Italy',
+		"Year":'AD 80'
+	},
+	{	"Wonder" : 'Chichen Itza',
+		"Location":'Mexico',
+		"Year":'AD 600'
+	},
+	{	"Wonder" : 'Machu Picchu',
+		"Location":'Peru',
+		"Year":'AD 1450'
+	},
+	{	"Wonder" : 'Taj Mahal',
+		"Location":'India',
+		"Year":'AD 1643'
+	},
+	{	"Wonder" : 'Christ the Redeemer',
+		"Location":'Brazil', 
+		"Year":'AD 1931'
+	}
+]
